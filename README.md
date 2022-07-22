@@ -1,4 +1,4 @@
-# covid19_Dashboard
+# Covid19_Dashboard
 
 Analyse our country's Covid19 situation using python.
 
